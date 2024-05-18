@@ -17,7 +17,7 @@ last_name = input("Please enter you'r LastName: ")
 major = input("Please enter you'r major: ")
 
 #مسیر عکس مورد نظر (خام)
-image_path = "C:\\Users\\Parsan Afzar\\Desktop\\ID card generator\\image1.png"
+image_path = "image1.png"
 
 #باز کردن تصویر
 img = Image.open(image_path)
